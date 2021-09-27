@@ -1,0 +1,14 @@
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.CreateAddress.resources
+C:\Users\Leonid.Ristanovski\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
